@@ -17,7 +17,7 @@ customer-churn-prediction/
 │ └── model_comparison.csv
 │
 ├── README.md
-└── requirements.txt # (Optional) Python dependencies
+
 
 
 ## 🚀 Project Goals
